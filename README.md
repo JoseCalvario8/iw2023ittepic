@@ -6,7 +6,7 @@ En esta practica veremos los comandos basicos para poder crear un repositorio en
 
 1.- Primero crearemos el repositorio mediante la interfaz grafica de GitHub:
 
-![Alt text](image.png)
+![Alt text](assets/image.png)
 
 2.- Despues clonaremos el repositorio con el siguiente comando:
 
@@ -28,11 +28,11 @@ En esta practica veremos los comandos basicos para poder crear un repositorio en
 
 6.- Tambien crearemos una carpeta llamada privada
 
-  ![Alt text](image-1.png)
+  ![Alt text](assets/image-1.png)
 
 7.- Ignoraremos estos dos archivos mediante el .gitignore (es decir crearemos ese archivo mediante el touch gitignore y dentro especificaremos los archivos ignorados privado.txt y privada)
 
-  ![Alt text](image-2.png)
+  ![Alt text](assets/image-2.png)
 
   (En la foto se aprecia como se debe escribir dentro del archivo .gitignore para que se ignore los archivos deseados)
   git add .gitignore
