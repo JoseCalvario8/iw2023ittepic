@@ -42,6 +42,16 @@ En esta practica veremos los comandos basicos para poder crear un repositorio en
 
     touch 1.txt
     git tag v0.1
+
+9.- Creacion de tabla con informacion acerca de 5 compañeros de clase
+| Nombre | GitHub  |
+| ------------ | ------------ | 
+| CARRILLO RUBIO JOSÉ GIOVANNI   | https://github.com/josecar2505   | 
+| DE ROBLES RAMIREZ MIGUEL ISRAEL    | https://github.com/MDeRobles  |
+| ESTRADA GARCÍA CHRISTOPHER JAIR    | https://github.com/EsGaCristo | 
+| RAMÍREZ REA ERICK DARIO    | https://github.com/Elery2711 | 
+| PACHECO ROSALES VICTOR MANUEL    | https://github.com/XxXelbichoXxX |  
+
     
 
 
