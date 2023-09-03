@@ -6,7 +6,7 @@ En esta practica veremos los comandos basicos para poder crear un repositorio en
 
 1.- Primero crearemos el repositorio mediante la interfaz grafica de GitHub:
 
-![Alt text](image.png)
+![Alt text](assets/image.png)
 
 2.- Despues clonaremos el repositorio con el siguiente comando:
 
