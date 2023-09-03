@@ -16,11 +16,42 @@ En esta practica veremos los comandos basicos para poder crear un repositorio en
 
  touch README.md
 
- 4.-Escribiremos en el archivo README todos los comandos utilizados en la practica y despues haremos un commit:
+ 4.-Escribiremos en el archivo README todos los comandos utilizados en la practica y despues haremos un commit y un push:
 
-  git add README.md
-  git commit -m "Initial commit"
-  git push
+    git add README.md
+    git commit -m "Initial commit"
+    git push
+
+5.- Crearemos en el repositorio local un fichero llavado privado.txt:
+
+  touch privado.txt
+
+6.- Tambien crearemos una carpeta llamada privada
+
+  ![Alt text](image-1.png)
+
+7.- Ignoraremos estos dos archivos mediante el .gitignore (es decir crearemos ese archivo mediante el touch gitignore y dentro especificaremos los archivos ignorados privado.txt y privada)
+
+  ![Alt text](image-2.png)
+
+  (En la foto se aprecia como se debe escribir dentro del archivo .gitignore para que se ignore los archivos deseados)
+  git add .gitignore
+  git commit -m "Archivos ignorados"
+
+8.-Crear un archivo y un tag
+
+    touch 1.txt
+    git tag v0.1
+    
+
+
+
+
+
+
+
+
+
 
 
 
